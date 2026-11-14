@@ -1,0 +1,20 @@
+Junior Data Analyst — Fictional Fintech Pte Ltd (Singapore)
+
+About the role
+You will analyse product and customer data to help our lending team make better decisions.
+
+Responsibilities
+- Write SQL and Python to answer product questions.
+- Build and maintain dashboards and metric definitions.
+- Help design and read A/B tests.
+- Explain findings to non-technical partners.
+
+Requirements
+- Degree in Engineering, Computer Science, Statistics or a related field.
+- Solid SQL and working Python.
+- Good grasp of statistics and hypothesis testing.
+- Clear communication.
+
+Nice to have
+- Experience with a visualisation tool (Power BI, Tableau).
+- Interest in fintech or lending.
