@@ -15,6 +15,8 @@ BUZZWORDS = [
     "detail-oriented", "detail oriented", "analytical", "synergy", "dynamic",
     "go-getter", "passionate", "self-starter", "self starter", "think outside the box",
     "strong interest", "skilled in", "data-driven", "responsible for",
+    "leverage", "leveraging", "drive digital transformation", "meaningful impact",
+    "deliver impact", "solve complex business challenges", "scalable",
 ]
 
 # "60% of 4 users", "90% of 12 participants"

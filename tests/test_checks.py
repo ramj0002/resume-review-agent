@@ -36,3 +36,10 @@ def test_inconsistent_figures():
     findings = inconsistent_figures(resume, master)
     assert len(findings) == 1
     assert "94.81" in findings[0].detail
+
+
+def test_finds_corporate_phrases():
+    words = [f.detail for f in buzzwords("Interested in leveraging AI to drive digital transformation and deliver meaningful impact")]
+    assert any("leveraging" in w for w in words)
+    assert any("drive digital transformation" in w for w in words)
+    assert any("meaningful impact" in w for w in words)
